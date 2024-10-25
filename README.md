@@ -1,2 +1,2 @@
 # plasma
-Antivirus with threat scanner, security analitics
+Threats with vulnerabilities scanner with security analitics
