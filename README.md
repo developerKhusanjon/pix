@@ -1,2 +1,2 @@
 # plasma
-Threats with vulnerabilities scanner with security analitics
+Threats and vulnerabilities scanner with security analitics
